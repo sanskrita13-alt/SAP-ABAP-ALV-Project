@@ -1,6 +1,6 @@
 # SAP ABAP Custom ALV — Open Sales Orders Report
 
-> **Capstone Project** | [Your Name] | Roll No: [Your Roll No] | Batch: [Your Batch]
+> **Capstone Project** | Sanskrita Baishya | Roll No: 2305807 | Batch: SAP ABAP
 > Specialization: SAP ABAP Development
 
 ---
